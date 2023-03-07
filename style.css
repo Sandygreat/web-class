@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav {
+    background-color: antiquewhite;
+    overflow: hidden;
+}
+#navbar{
+    float: left;
+    list-style: none;
+    
+}
+
+#navbar li{
+    float: left;
+    padding: 10px;
+    text-decoration: none;
+    
+}
+.background{
+    background-image: url(white-feathers-image.avif);
+    background-repeat: no-repeat;
+    height: 300px;
+    font-size: 40px;
+    display: inline-block;
+    width: 2000px;
+}
+.background  p{
+    color: aliceblue;
+}
